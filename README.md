@@ -13,11 +13,7 @@ Merhaba! Ben Mücahit, modern ve kullanıcı dostu web uygulamaları geliştiren
 - Performans optimizasyonu ve ileri düzey React kalıpları  
 
 ## 💼 Projelerim  
-GitHub depolarımda çeşitli web projelerine göz atabilirsiniz. İşte birkaç örnek:  
-- [Portfolio Website](#) - Kendi kişisel portföy sitem.  
-- [E-Commerce UI](#) - React ve Material-UI kullanarak tasarlanmış e-ticaret arayüzü.  
-- [Blog Platform](#) - API ile etkileşimli bir blog platformu.  
-
+GitHub depolarımda çeşitli web projelerine göz atabilirsiniz. 
 ## 📫 Bana Ulaşın  
 - **E-posta:** mucahit0998@gmail.com  
 - **LinkedIn:** [linkedin.com/in/mucahityeter]  
