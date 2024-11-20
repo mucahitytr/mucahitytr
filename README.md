@@ -4,21 +4,21 @@ Merhaba! Ben Mücahit, modern ve kullanıcı dostu web uygulamaları geliştiren
 
 ## 🛠️ Kullandığım Teknolojiler  
 
-- **Diller:** HTML5, CSS3, JavaScript (ES6+) , 
-- **Kütüphaneler & Frameworkler:** React, Material-UI, TailwindCSS , Boostrap , Typescript  
-- **Araçlar:** Git, VS Code  
-- **Yöntemler:** Responsive Tasarım, Mobil Öncelikli Tasarım, SEO Optimizasyonu  
+- Diller:** HTML5, CSS3, JavaScript (ES6+) , 
+- Kütüphaneler & Frameworkler:** React, Material-UI, TailwindCSS , Boostrap , Typescript  
+- Araçlar:** Git, VS Code  
+- Yöntemler:** Responsive Tasarım, Mobil Öncelikli Tasarım, SEO Optimizasyonu  
 
 ## 🌱 Şu anda ne öğreniyorum?  
-- **React  üzerinde uzmanlaşma , context api uygulamaları , tailwind. 
+- React  üzerinde uzmanlaşma , context api uygulamaları , tailwind. 
 - Performans optimizasyonu ve ileri düzey React kalıpları  
 
 ## 💼 Projelerim  
 GitHub depolarımda çeşitli web projelerine göz atabilirsiniz. 
 
 ## 📫 Bana Ulaşın  
-- **E-postamucahit0998@gmail.com  
-- **LinkedIn:www.linkedin.com/in/mucahityeter/
+- E-posta :  mucahit0998@gmail.com  
+- LinkedIn:  www.linkedin.com/in/mucahityeter/
   
 
 ## 🌟 Hedefim  
