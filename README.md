@@ -1,6 +1,7 @@
 # 👋 Mücahit - JR.Front-End Developer  
 
 Merhaba! Ben Mücahit, modern ve kullanıcı dostu web uygulamaları geliştiren bir  Junior Front-End Developer'ım. 
+
 ## 🛠️ Kullandığım Teknolojiler  
 
 - **Diller:** HTML5, CSS3, JavaScript (ES6+) , 
@@ -14,9 +15,10 @@ Merhaba! Ben Mücahit, modern ve kullanıcı dostu web uygulamaları geliştiren
 
 ## 💼 Projelerim  
 GitHub depolarımda çeşitli web projelerine göz atabilirsiniz. 
+
 ## 📫 Bana Ulaşın  
-- **E-posta:** mucahit0998@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mucahityeter]  
+- **E-postamucahit0998@gmail.com  
+- **LinkedIn:www.linkedin.com/in/mucahityeter/
   
 
 ## 🌟 Hedefim  
