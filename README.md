@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Mücahit - JR.Front-End Developer  
 
-<!--
-**mucahitytr/mucahitytr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba! Ben Mücahit, modern ve kullanıcı dostu web uygulamaları geliştiren bir ** Junior Front-End Developer**'ım. 
+## 🛠️ Kullandığım Teknolojiler  
 
-Here are some ideas to get you started:
+- **Diller:** HTML5, CSS3, JavaScript (ES6+) , 
+- **Kütüphaneler & Frameworkler:** React, Material-UI, TailwindCSS , Boostrap , Typescript  
+- **Araçlar:** Git, VS Code  
+- **Yöntemler:** Responsive Tasarım, Mobil Öncelikli Tasarım, SEO Optimizasyonu  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Şu anda ne öğreniyorum?  
+- **React  üzerinde uzmanlaşma , context api uygulamaları , tailwind. 
+- Performans optimizasyonu ve ileri düzey React kalıpları  
+
+## 💼 Projelerim  
+GitHub depolarımda çeşitli web projelerine göz atabilirsiniz. İşte birkaç örnek:  
+- [Portfolio Website](#) - Kendi kişisel portföy sitem.  
+- [E-Commerce UI](#) - React ve Material-UI kullanarak tasarlanmış e-ticaret arayüzü.  
+- [Blog Platform](#) - API ile etkileşimli bir blog platformu.  
+
+## 📫 Bana Ulaşın  
+- **E-posta:** mucahit0998@gmail.com  
+- **LinkedIn:** [linkedin.com/in/mucahityeter]  
+  
+
+## 🌟 Hedefim  
+Teknolojiyi daha erişilebilir ve etkili bir şekilde kullanmak için kaliteli web çözümleri geliştirmek. Kendimi sürekli geliştirerek **"her zaman daha iyisi"** mottosuyla çalışıyorum.  
+
+---
+
+
