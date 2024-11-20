@@ -1,6 +1,6 @@
 # 👋 Mücahit - JR.Front-End Developer  
 
-Merhaba! Ben Mücahit, modern ve kullanıcı dostu web uygulamaları geliştiren bir ** Junior Front-End Developer**'ım. 
+Merhaba! Ben Mücahit, modern ve kullanıcı dostu web uygulamaları geliştiren bir  Junior Front-End Developer'ım. 
 ## 🛠️ Kullandığım Teknolojiler  
 
 - **Diller:** HTML5, CSS3, JavaScript (ES6+) , 
@@ -24,7 +24,7 @@ GitHub depolarımda çeşitli web projelerine göz atabilirsiniz. İşte birkaç
   
 
 ## 🌟 Hedefim  
-Teknolojiyi daha erişilebilir ve etkili bir şekilde kullanmak için kaliteli web çözümleri geliştirmek. Kendimi sürekli geliştirerek **"her zaman daha iyisi"** mottosuyla çalışıyorum.  
+Teknolojiyi daha erişilebilir ve etkili bir şekilde kullanmak için kaliteli web çözümleri geliştirmek. Kendimi sürekli geliştirerek "her zaman daha iyisi" mottosuyla çalışıyorum.  
 
 ---
 
